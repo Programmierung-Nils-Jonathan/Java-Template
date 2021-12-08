@@ -1,1 +1,27 @@
 # Programmierung Übungsblatt x Aufgabe x
+
+
+## Usage
+Run and Compile:
+```bash
+make
+```
+
+Generate Javadocs:
+```bash
+make doc
+```
+
+## Gitpod
+
+This repository is configured for an automated Coding Environment using Gitpod.
+This includes:
+- Automatic compilation and execution of the project
+- Automatic generation of Javadoc files on file changes
+- Javadoc Server
+
+### Ports
+
+| Port | Usage |
+| ---- | ----- |
+| 3000 | Javadoc Server |
