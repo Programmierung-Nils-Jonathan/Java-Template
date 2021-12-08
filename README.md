@@ -25,3 +25,8 @@ This includes:
 | Port | Usage |
 | ---- | ----- |
 | 3000 | Javadoc Server |
+
+## Maintainers
+
+- [Nils Bollwerk](https://github.com/Nils4112)
+- [Jonathan Treffler](https://github.com/JonathanTreffler)
